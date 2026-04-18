@@ -1,0 +1,10 @@
+# app-ads.txt - NineHead Studio
+# Authorized Digital Sellers for In-App Advertising
+# IAB Tech Lab Specification: https://iabtechlab.com/ads-txt/
+# Last Updated: 2024-12-05
+# Contact: dua.sahil9@gmail.com
+#
+# FORMAT: <Ad System Domain>, <Publisher Account ID>, <Account Type>, <Certificate Authority ID>
+# Account Types: DIRECT = direct relationship, RESELLER = authorized reseller
+
+google.com, pub-8318353052253133, DIRECT, f08c47fec0942fa0
